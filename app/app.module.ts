@@ -9,8 +9,8 @@ import { HeroDetailComponent }  from './hero-detail.component';
 @NgModule({
   imports:      [ BrowserModule ,FormsModule],
   declarations: [ 
-    AppComponent,
-    HeroDetailComponent
+            AppComponent,
+            HeroDetailComponent
      ],
   bootstrap:    [ AppComponent ]
 })
